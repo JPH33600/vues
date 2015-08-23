@@ -1,0 +1,8 @@
+.jumbotron
+{
+	border: outset 1px #aaa;
+	text-align: center;
+	font-size: 25px;
+	background-color: #ddd;
+	max-width: 500px;
+}
